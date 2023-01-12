@@ -1,4 +1,4 @@
-# Dependencies
+n# Dependencies
 markdown:         redcarpet
 highlighter:      pygments
 
@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Brennan McDavid
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'I work on Ancient Philosophy, particularly Metaethics, Epistemology, and Political Economy in Plato and Aristotle's thought.'
+url:              https://bkmcdavid.github.io
 baseurl:          /
 
 author:
