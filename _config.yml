@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Brennan McDavid
 tagline:          'A Jekyll theme'
 description:      'I work on Ancient Philosophy, particularly Metaethics, Epistemology, and Political Economy in Plato and Aristotle's thought.'
-url:              https://bkmcdavid.github.io
-baseurl:          /
+url:              http://hyde.getpoole.com
+baseurl:          '/hyde/'
 
 author:
   name:           'Mark Otto'
